@@ -1,0 +1,12 @@
+{
+  "name": "traversal-server",
+  "version": "1.0.0",
+  "description": "Traversal server for UDP hole punching",
+  "repository": "https://github.com/kevinsung/traversal-server.git",
+  "author": "Kevin J. Sung <kevjsung@umich.edu>",
+  "license": "AGPL-3.0-only",
+  "devDependencies": {
+    "@types/node": "^15.3.0",
+    "typescript": "^4.2.4"
+  }
+}

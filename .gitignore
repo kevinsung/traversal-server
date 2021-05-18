@@ -1,0 +1,8 @@
+# node modules
+node_modules
+
+# VS Code
+.vscode
+
+# generated files
+traversalServer.js
